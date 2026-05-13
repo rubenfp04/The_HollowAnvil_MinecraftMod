@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "id": "hollowtanvil:hollow_anvil"
+    },
+    "title": {
+      "translate": "advancements.hollowtanvil.first_altar.title",
+      "color": "dark_red",
+      "bold": true
+    },
+    "description": {
+      "translate": "advancements.hollowtanvil.first_altar.description",
+      "color": "red"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/block/netherrack.png"
+  },
+  "criteria": {
+    "placed": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [["placed"]]
+}

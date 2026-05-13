@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:bone"
+    },
+    "title": {
+      "translate": "advancements.hollowtanvil.first_sacrifice.title",
+      "color": "dark_red",
+      "bold": true
+    },
+    "description": {
+      "translate": "advancements.hollowtanvil.first_sacrifice.description",
+      "color": "red"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/block/netherrack.png"
+  },
+  "parent": "hollowtanvil:first_altar",
+  "criteria": {
+    "absorbed": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [["absorbed"]]
+}

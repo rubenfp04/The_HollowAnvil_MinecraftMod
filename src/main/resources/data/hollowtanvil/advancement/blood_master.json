@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "hollowtanvil:hollow_anvil"
+    },
+    "title": {
+      "translate": "advancements.hollowtanvil.blood_master.title",
+      "color": "dark_red",
+      "bold": true
+    },
+    "description": {
+      "translate": "advancements.hollowtanvil.blood_master.description",
+      "color": "red"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/block/netherrack.png"
+  },
+  "parent": "hollowtanvil:blood_pact",
+  "criteria": {
+    "maxed": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [["maxed"]]
+}

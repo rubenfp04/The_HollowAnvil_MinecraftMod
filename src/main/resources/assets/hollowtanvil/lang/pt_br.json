@@ -1,0 +1,37 @@
+{
+  "block.hollowtanvil.hollow_anvil": "Bigorna Oca",
+  "item.hollowtanvil.hollow_anvil": "Bigorna Oca",
+  "itemGroup.hollowtanvil.main": "A Bigorna Oca",
+
+  "block.hollowtanvil.soul_absorb":  "Alma absorvida",
+  "block.hollowtanvil.buff_granted": "Bônus concedido",
+  "block.hollowtanvil.altar_awaken": "O altar ancestral desperta",
+  "block.hollowtanvil.blood_reward": "Pacto de sangue cumprido",
+  "block.hollowtanvil.cage_lock":    "Presa capturada",
+
+  "gui.hollowtanvil.blood_demanded": "Sangue Exigido",
+  "gui.hollowtanvil.awaiting":       "Aguardando sacrifício...",
+  "gui.hollowtanvil.reward_ready":   "Recompensa pronta",
+  "gui.hollowtanvil.essence_stored": "Essência da Alma",
+
+  "message.hollowtanvil.favor_granted": "❆ A Bigorna Oca concedeu seu favor... ❆",
+
+  "item.hollowtanvil.devorador_hueco":       "O Devorador Oco",
+  "item.hollowtanvil.espiritu_hueco":        "Espírito Oco",
+  "item.hollowtanvil.metal_forjado_sangre":  "Metal Forjado em Sangue",
+
+  "effect.hollowtanvil.blood_frenzy": "Frenesi de Sangue",
+  "effect.hollowtanvil.soul_armor":   "Armadura das Almas",
+
+  "advancements.hollowtanvil.first_altar.title":       "Juramento de Sangue",
+  "advancements.hollowtanvil.first_altar.description": "Você despertou a Bigorna Oca. Ela exige sacrifício.",
+
+  "advancements.hollowtanvil.first_sacrifice.title":       "Primeiro Sangue",
+  "advancements.hollowtanvil.first_sacrifice.description": "O altar provou a essência. Ele anseia por mais.",
+
+  "advancements.hollowtanvil.blood_pact.title":       "O Pacto de Sangue",
+  "advancements.hollowtanvil.blood_pact.description": "A Bigorna Oca cumpriu seu pacto. Sua fome só aumenta.",
+
+  "advancements.hollowtanvil.blood_master.title":       "Mestre do Sangue",
+  "advancements.hollowtanvil.blood_master.description": "Você encheu o altar até a borda. Ele está saciado... por enquanto."
+}

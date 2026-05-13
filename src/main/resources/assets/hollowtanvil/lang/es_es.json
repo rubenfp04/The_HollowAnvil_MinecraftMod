@@ -1,0 +1,73 @@
+{
+  "block.hollowtanvil.hollow_anvil": "Altar Hueco",
+  "item.hollowtanvil.hollow_anvil": "Altar Hueco",
+  "itemGroup.hollowtanvil.main": "El Altar Hueco",
+
+  "block.hollowtanvil.soul_absorb":  "Alma absorbida",
+  "block.hollowtanvil.buff_granted": "Beneficio concedido",
+  "block.hollowtanvil.altar_awaken": "El altar ancestral despierta",
+  "block.hollowtanvil.blood_reward": "Pacto de sangre cumplido",
+  "block.hollowtanvil.cage_lock":    "Presa atrapada",
+
+  "gui.hollowtanvil.blood_demanded": "Sangre Exigida",
+  "gui.hollowtanvil.awaiting":       "Aguardando sacrificio...",
+  "gui.hollowtanvil.reward_ready":   "Recompensa lista",
+  "gui.hollowtanvil.essence_stored": "Esencia del Alma",
+  "gui.hollowtanvil.autotrap_on":    "☑ Auto-Trampa: ON",
+  "gui.hollowtanvil.autotrap_off":   "☐ Auto-Trampa: OFF",
+  "gui.hollowtanvil.choose_reward":  "Elige tu recompensa",
+  "gui.hollowtanvil.owner":          "Dueño: %s",
+  "gui.hollowtanvil.tier":           "Nivel %d",
+
+  "reward.hollowtanvil.golden_apple":   "Manzana de Oro Encantada",
+  "reward.hollowtanvil.hollow_sword":   "El Devorador Hueco",
+  "reward.hollowtanvil.hollow_totem":   "Espíritu Hueco",
+  "reward.hollowtanvil.blood_ingots":   "Metal Forjado en Sangre",
+  "reward.hollowtanvil.power_enderman": "Poder: Teletransporte (Enderman)",
+  "reward.hollowtanvil.power_ghast":    "Poder: Bola de Fuego (Ghast)",
+  "reward.hollowtanvil.power_wither":   "Poder: Cráneos del Wither",
+  "reward.hollowtanvil.power_creeper":  "Poder: Explosión (Creeper)",
+  "reward.hollowtanvil.power_blaze":    "Poder: Lluvia de Fuego (Blaze)",
+  "reward.hollowtanvil.power_spider":   "Poder: Trampa de Telas (Araña)",
+
+  "message.hollowtanvil.favor_granted": "✦ El Altar Hueco ha concedido su favor... ✦",
+  "message.hollowtanvil.choose_reward":  "✦ El Altar Hueco te ofrece tres caminos. Elige. ✦",
+  "message.hollowtanvil.power_enderman": "✦ Poder del Enderman: Teletransporte ✦",
+  "message.hollowtanvil.power_ghast":    "✦ Poder del Ghast: Bola de Fuego ✦",
+  "message.hollowtanvil.power_wither":   "✦ Poder del Wither: Cráneos Devoradores ✦",
+  "message.hollowtanvil.power_creeper":  "✦ Poder del Creeper: Explosión ✦",
+  "message.hollowtanvil.power_blaze":    "✦ Poder del Blaze: Lluvia de Fuego ✦",
+  "message.hollowtanvil.power_spider":   "✦ Poder de la Araña: Trampa de Telas ✦",
+  "message.hollowtanvil.power_hint":     "Pulsa [Alt Izquierdo] para activar tu poder. (5s de enfriamiento)",
+
+  "message.hollowtanvil.altar_too_close": "\u2620 El Altar Hueco rechaza este lugar. Hay otro altar a solo %d bloques (m\u00ednimo: %d). \u2620",
+  "message.hollowtanvil.altar_limit":     "\u2620 El Altar Hueco se niega a servir. Ya tienes %d altares \u2014 no compartir\u00e1 tu sangre. \u2620",
+
+  "message.hollowtanvil.death_taunt_1": "☠ El Altar está decepcionado. Eras su campeón... ¿y te MORISTE? Patético. Poderes revocados. ☠",
+  "message.hollowtanvil.death_taunt_2": "☠ ¿En serio? ¿EN SERIO? El Altar invirtió su sangre en ti y vas y te mueres. Poderes: eliminados. Respeto: también. ☠",
+  "message.hollowtanvil.death_taunt_3": "☠ El Altar te vio morir y le dio vergüenza ajena. Se lleva sus poderes de vuelta. Intenta no avergonzarlo otra vez. ☠",
+  "message.hollowtanvil.death_taunt_4": "☠ ¡Felicidades! Lograste morirte. El Altar está replanteándose sus decisiones de vida. Poderes confiscados. ☠",
+  "message.hollowtanvil.death_taunt_5": "☠ El Altar te dio SUPERPODERES LITERALES y aun así te moriste. Quiere un reembolso. Poderes revocados, altar reseteado. ☠",
+
+  "key.hollowtanvil.activate_power": "Activar Poder de Mob",
+  "key.categories.hollowtanvil":     "El Altar Hueco",
+
+  "item.hollowtanvil.devorador_hueco":       "El Devorador Hueco",
+  "item.hollowtanvil.espiritu_hueco":        "Espíritu Hueco",
+  "item.hollowtanvil.metal_forjado_sangre":  "Metal Forjado en Sangre",
+
+  "effect.hollowtanvil.blood_frenzy": "Frenesí de Sangre",
+  "effect.hollowtanvil.soul_armor":   "Armadura de Almas",
+
+  "advancements.hollowtanvil.first_altar.title":       "Pacto de Sangre",
+  "advancements.hollowtanvil.first_altar.description": "Has despertado el Altar Hueco. Exige sacrificio.",
+
+  "advancements.hollowtanvil.first_sacrifice.title":       "Primera Sangre",
+  "advancements.hollowtanvil.first_sacrifice.description": "El altar ha probado la esencia. Anhela más.",
+
+  "advancements.hollowtanvil.blood_pact.title":       "El Pacto de Sangre",
+  "advancements.hollowtanvil.blood_pact.description": "El Altar Hueco ha cumplido su pacto. Su hambre solo crece.",
+
+  "advancements.hollowtanvil.blood_master.title":       "Maestro de la Sangre",
+  "advancements.hollowtanvil.blood_master.description": "Has llenado el altar hasta el borde. Está saciado... por ahora."
+}

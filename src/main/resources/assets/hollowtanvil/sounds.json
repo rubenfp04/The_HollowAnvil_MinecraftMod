@@ -1,0 +1,57 @@
+{
+  "soul_absorb": {
+    "subtitle": "block.hollowtanvil.soul_absorb",
+    "sounds": [
+      {
+        "name": "ambient.soul_sand_valley.additions",
+        "volume": 1.8,
+        "pitch": 0.55,
+        "type": "event"
+      }
+    ]
+  },
+  "buff_granted": {
+    "subtitle": "block.hollowtanvil.buff_granted",
+    "sounds": [
+      {
+        "name": "block.beacon.activate",
+        "volume": 1.0,
+        "pitch": 1.1,
+        "type": "event"
+      }
+    ]
+  },
+  "altar_awaken": {
+    "subtitle": "block.hollowtanvil.altar_awaken",
+    "sounds": [
+      {
+        "name": "entity.elder_guardian.curse",
+        "volume": 3.0,
+        "pitch": 0.55,
+        "type": "event"
+      }
+    ]
+  },
+  "blood_reward": {
+    "subtitle": "block.hollowtanvil.blood_reward",
+    "sounds": [
+      {
+        "name": "block.end_portal.spawn",
+        "volume": 2.5,
+        "pitch": 0.8,
+        "type": "event"
+      }
+    ]
+  },
+  "cage_lock": {
+    "subtitle": "block.hollowtanvil.cage_lock",
+    "sounds": [
+      {
+        "name": "block.iron_door.close",
+        "volume": 2.0,
+        "pitch": 0.6,
+        "type": "event"
+      }
+    ]
+  }
+}

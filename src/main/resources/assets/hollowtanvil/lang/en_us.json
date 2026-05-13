@@ -1,0 +1,73 @@
+{
+  "block.hollowtanvil.hollow_anvil": "Hollow Anvil",
+  "item.hollowtanvil.hollow_anvil": "Hollow Anvil",
+  "itemGroup.hollowtanvil.main": "The Hollow Anvil",
+
+  "block.hollowtanvil.soul_absorb":  "Soul absorbed",
+  "block.hollowtanvil.buff_granted": "Buff granted",
+  "block.hollowtanvil.altar_awaken": "Ancient altar awakens",
+  "block.hollowtanvil.blood_reward": "Blood covenant fulfilled",
+  "block.hollowtanvil.cage_lock":    "Prey ensnared",
+
+  "gui.hollowtanvil.blood_demanded": "Blood Demanded",
+  "gui.hollowtanvil.awaiting":       "Awaiting sacrifice...",
+  "gui.hollowtanvil.reward_ready":   "Reward ready",
+  "gui.hollowtanvil.essence_stored": "Soul Essence",
+  "gui.hollowtanvil.autotrap_on":    "☑ Auto-Trap: ON",
+  "gui.hollowtanvil.autotrap_off":   "☐ Auto-Trap: OFF",
+  "gui.hollowtanvil.choose_reward":  "Choose your reward",
+  "gui.hollowtanvil.owner":          "Owner: %s",
+  "gui.hollowtanvil.tier":           "Tier %d",
+
+  "reward.hollowtanvil.golden_apple":   "Enchanted Golden Apple",
+  "reward.hollowtanvil.hollow_sword":   "The Hollow Devourer",
+  "reward.hollowtanvil.hollow_totem":   "Hollow Spirit",
+  "reward.hollowtanvil.blood_ingots":   "Blood-Forged Metal",
+  "reward.hollowtanvil.power_enderman": "Power: Teleport (Enderman)",
+  "reward.hollowtanvil.power_ghast":    "Power: Fireball (Ghast)",
+  "reward.hollowtanvil.power_wither":   "Power: Wither Skulls",
+  "reward.hollowtanvil.power_creeper":  "Power: Explosion (Creeper)",
+  "reward.hollowtanvil.power_blaze":    "Power: Fire Rain (Blaze)",
+  "reward.hollowtanvil.power_spider":   "Power: Web Trap (Spider)",
+
+  "message.hollowtanvil.favor_granted": "❆ The Hollow Altar has granted its favor... ❆",
+  "message.hollowtanvil.choose_reward":  "✦ The Hollow Altar offers three paths. Choose. ✦",
+  "message.hollowtanvil.power_enderman": "✦ Enderman's Power: Teleport ✦",
+  "message.hollowtanvil.power_ghast":    "✦ Ghast's Power: Fireball ✦",
+  "message.hollowtanvil.power_wither":   "✦ Wither's Power: Devouring Skulls ✦",
+  "message.hollowtanvil.power_creeper":  "✦ Creeper's Power: Explosion ✦",
+  "message.hollowtanvil.power_blaze":    "✦ Blaze's Power: Fire Rain ✦",
+  "message.hollowtanvil.power_spider":   "✦ Spider's Power: Web Trap ✦",
+  "message.hollowtanvil.power_hint":     "Press [Left Alt] to activate your power. (5s cooldown)",
+
+  "message.hollowtanvil.altar_too_close": "\u2620 The Hollow Altar rejects this location. Another altar is only %d blocks away (minimum: %d). \u2620",
+  "message.hollowtanvil.altar_limit":     "\u2620 The Hollow Altar refuses to serve. You already have %d altars — it will not share your blood. \u2620",
+
+  "message.hollowtanvil.death_taunt_1": "☠ The Altar is disappointed. You were its champion... and you DIED? Pathetic. Powers revoked. ☠",
+  "message.hollowtanvil.death_taunt_2": "☠ Really? REALLY? The Altar invested its blood in you and you go and die. Powers: gone. Respect: also gone. ☠",
+  "message.hollowtanvil.death_taunt_3": "☠ The Altar watched you die and physically cringed. It's taking its powers back. Try not to embarrass it again. ☠",
+  "message.hollowtanvil.death_taunt_4": "☠ Congratulations! You managed to die. The Altar is rethinking its life choices. Powers confiscated. ☠",
+  "message.hollowtanvil.death_taunt_5": "☠ The Altar gave you LITERAL superpowers and you still died. It wants a refund. Powers revoked, altar reset. ☠",
+
+  "key.hollowtanvil.activate_power": "Activate Mob Power",
+  "key.categories.hollowtanvil":     "The Hollow Anvil",
+
+  "item.hollowtanvil.devorador_hueco":       "The Hollow Devourer",
+  "item.hollowtanvil.espiritu_hueco":        "Hollow Spirit",
+  "item.hollowtanvil.metal_forjado_sangre":  "Blood-Forged Metal",
+
+  "effect.hollowtanvil.blood_frenzy": "Blood Frenzy",
+  "effect.hollowtanvil.soul_armor":   "Soul Armor",
+
+  "advancements.hollowtanvil.first_altar.title":       "Blood Oath",
+  "advancements.hollowtanvil.first_altar.description": "You have awakened the Hollow Anvil. It demands sacrifice.",
+
+  "advancements.hollowtanvil.first_sacrifice.title":       "First Blood",
+  "advancements.hollowtanvil.first_sacrifice.description": "The altar has tasted essence. It hungers for more.",
+
+  "advancements.hollowtanvil.blood_pact.title":       "The Blood Covenant",
+  "advancements.hollowtanvil.blood_pact.description": "The Hollow Altar has fulfilled its pact. Its hunger only grows.",
+
+  "advancements.hollowtanvil.blood_master.title":       "Master of Blood",
+  "advancements.hollowtanvil.blood_master.description": "You have filled the altar to its very brim. It is sated... for now."
+}

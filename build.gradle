@@ -1,0 +1,55 @@
+plugins {
+    id 'java-library'
+    id 'net.neoforged.moddev' version "${moddev_plugin_version}"
+}
+
+version   = mod_version
+group     = mod_group_id
+base { archivesName = mod_id }
+
+java {
+    toolchain.languageVersion = JavaLanguageVersion.of(21)
+}
+
+neoForge {
+    version = neoforge_version
+
+    runs {
+        client {
+            client()
+            // Logs at a reasonable level for development
+            logLevel = org.slf4j.event.Level.DEBUG
+        }
+        server {
+            server()
+            programArgument '--nogui'
+        }
+    }
+
+    mods {
+        "${mod_id}" {
+            sourceSet sourceSets.main
+        }
+    }
+}
+
+repositories {
+    mavenLocal()
+}
+
+dependencies {
+    // No extra dependencies for this mod
+}
+
+// Make IDE project names cleaner
+tasks.withType(ProcessResources).configureEach {
+    var replaceProperties = [
+            mod_id         : mod_id,
+            mod_version    : mod_version,
+            neoforge_version: neoforge_version
+    ]
+    inputs.properties replaceProperties
+    filesMatching(['META-INF/neoforge.mods.toml']) {
+        expand replaceProperties
+    }
+}

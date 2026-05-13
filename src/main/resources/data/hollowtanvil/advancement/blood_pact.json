@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:enchanted_golden_apple"
+    },
+    "title": {
+      "translate": "advancements.hollowtanvil.blood_pact.title",
+      "color": "dark_red",
+      "bold": true
+    },
+    "description": {
+      "translate": "advancements.hollowtanvil.blood_pact.description",
+      "color": "red"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/block/netherrack.png"
+  },
+  "parent": "hollowtanvil:first_sacrifice",
+  "criteria": {
+    "granted": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [["granted"]]
+}

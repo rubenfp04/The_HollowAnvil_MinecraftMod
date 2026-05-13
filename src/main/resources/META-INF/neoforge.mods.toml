@@ -1,0 +1,26 @@
+modLoader  = "javafml"
+loaderVersion = "[4,)"
+license    = "MIT"
+
+[[mods]]
+modId       = "${mod_id}"
+version     = "${mod_version}"
+displayName = "The Hollow Anvil"
+authors     = "ImEnder"
+description = '''
+A sacrificial altar mod. Collect Soul Essence from dying mobs and spend it on powerful buffs.
+'''
+
+[[dependencies.${mod_id}]]
+    modId        = "neoforge"
+    type         = "required"
+    versionRange = "[21.1,21.12)"
+    ordering     = "NONE"
+    side         = "BOTH"
+
+[[dependencies.${mod_id}]]
+    modId        = "minecraft"
+    type         = "required"
+    versionRange = "[1.21.1,1.21.12)"
+    ordering     = "NONE"
+    side         = "BOTH"

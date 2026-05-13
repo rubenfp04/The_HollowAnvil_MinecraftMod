@@ -1,0 +1,37 @@
+{
+  "block.hollowtanvil.hollow_anvil": "Hohler Amboss",
+  "item.hollowtanvil.hollow_anvil": "Hohler Amboss",
+  "itemGroup.hollowtanvil.main": "Der Hohle Amboss",
+
+  "block.hollowtanvil.soul_absorb":  "Seele absorbiert",
+  "block.hollowtanvil.buff_granted": "Stärkung gewährt",
+  "block.hollowtanvil.altar_awaken": "Der uralte Altar erwacht",
+  "block.hollowtanvil.blood_reward": "Blutpakt erfüllt",
+  "block.hollowtanvil.cage_lock":    "Beute gefangen",
+
+  "gui.hollowtanvil.blood_demanded": "Gefordertes Blut",
+  "gui.hollowtanvil.awaiting":       "Warte auf Opfer...",
+  "gui.hollowtanvil.reward_ready":   "Belohnung bereit",
+  "gui.hollowtanvil.essence_stored": "Seelenessenz",
+
+  "message.hollowtanvil.favor_granted": "❆ Der Hohle Amboss hat seine Gunst gewährt... ❆",
+
+  "item.hollowtanvil.devorador_hueco":       "Der Hohle Verschlinger",
+  "item.hollowtanvil.espiritu_hueco":        "Hohler Geist",
+  "item.hollowtanvil.metal_forjado_sangre":  "Blutgeschmiedetes Metall",
+
+  "effect.hollowtanvil.blood_frenzy": "Blutrausch",
+  "effect.hollowtanvil.soul_armor":   "Seelenrüstung",
+
+  "advancements.hollowtanvil.first_altar.title":       "Bluteid",
+  "advancements.hollowtanvil.first_altar.description": "Du hast den Hohlen Amboss erweckt. Er verlangt ein Opfer.",
+
+  "advancements.hollowtanvil.first_sacrifice.title":       "Erstes Blut",
+  "advancements.hollowtanvil.first_sacrifice.description": "Der Altar hat Essenz gekostet. Er hungert nach mehr.",
+
+  "advancements.hollowtanvil.blood_pact.title":       "Der Blutpakt",
+  "advancements.hollowtanvil.blood_pact.description": "Der Hohle Amboss hat seinen Pakt erfüllt. Sein Hunger wächst.",
+
+  "advancements.hollowtanvil.blood_master.title":       "Meister des Blutes",
+  "advancements.hollowtanvil.blood_master.description": "Du hast den Altar bis zum Rand gefüllt. Er ist gesättigt... vorerst."
+}

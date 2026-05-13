@@ -1,0 +1,37 @@
+{
+  "block.hollowtanvil.hollow_anvil": "Enclume Creuse",
+  "item.hollowtanvil.hollow_anvil": "Enclume Creuse",
+  "itemGroup.hollowtanvil.main": "L'Enclume Creuse",
+
+  "block.hollowtanvil.soul_absorb":  "Âme absorbée",
+  "block.hollowtanvil.buff_granted": "Bienfait accordé",
+  "block.hollowtanvil.altar_awaken": "L'autel ancestral s'éveille",
+  "block.hollowtanvil.blood_reward": "Pacte de sang accompli",
+  "block.hollowtanvil.cage_lock":    "Proie piégée",
+
+  "gui.hollowtanvil.blood_demanded": "Sang Exigé",
+  "gui.hollowtanvil.awaiting":       "En attente du sacrifice...",
+  "gui.hollowtanvil.reward_ready":   "Récompense prête",
+  "gui.hollowtanvil.essence_stored": "Essence de l'Âme",
+
+  "message.hollowtanvil.favor_granted": "❆ L'Enclume Creuse a accordé sa faveur... ❆",
+
+  "item.hollowtanvil.devorador_hueco":       "Le Dévoreur Creux",
+  "item.hollowtanvil.espiritu_hueco":        "Esprit Creux",
+  "item.hollowtanvil.metal_forjado_sangre":  "Métal Forgé dans le Sang",
+
+  "effect.hollowtanvil.blood_frenzy": "Frénésie de Sang",
+  "effect.hollowtanvil.soul_armor":   "Armure des Âmes",
+
+  "advancements.hollowtanvil.first_altar.title":       "Serment de Sang",
+  "advancements.hollowtanvil.first_altar.description": "Vous avez éveillé l'Enclume Creuse. Elle exige un sacrifice.",
+
+  "advancements.hollowtanvil.first_sacrifice.title":       "Premier Sang",
+  "advancements.hollowtanvil.first_sacrifice.description": "L'autel a goûté l'essence. Il en veut davantage.",
+
+  "advancements.hollowtanvil.blood_pact.title":       "Le Pacte de Sang",
+  "advancements.hollowtanvil.blood_pact.description": "L'Enclume Creuse a tenu son pacte. Sa faim ne fait que croître.",
+
+  "advancements.hollowtanvil.blood_master.title":       "Maître du Sang",
+  "advancements.hollowtanvil.blood_master.description": "Vous avez rempli l'autel jusqu'au bord. Il est rassasié... pour l'instant."
+}
